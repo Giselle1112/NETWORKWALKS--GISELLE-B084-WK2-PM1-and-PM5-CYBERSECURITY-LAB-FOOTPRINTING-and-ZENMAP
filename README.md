@@ -66,23 +66,6 @@ Active local discovery was performed over a local wireless network interface fro
 *The Zenmap visual network topology was successfully generated and exported.*
 
 ---
-
-## Evidence Structure
-```text
-NETWORKWALKS-WK2-CYBERSECURITY-LAB/
-├── README.md
-├── PM1-Footprinting/
-│   ├── whois-output.txt
-│   ├── whatweb-output.txt
-│   ├── nslookup-output.txt
-│   ├── curl-output.txt
-│   ├── wafw00f-output.txt
-│   ├── dnsrecon-output.txt
-│   └── screenshots/
-├── PM5-Zenmap/
-│   ├── README.md
-│   ├── screenshots/
-│   └── zenmap-topology.pdf
 └── PM-FINAL/
     └── Week2-Cybersecurity-Report.md
 
