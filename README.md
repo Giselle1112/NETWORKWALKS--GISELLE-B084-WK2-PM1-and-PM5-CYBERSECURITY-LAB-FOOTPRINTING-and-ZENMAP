@@ -64,8 +64,3 @@ Active local discovery was performed over a local wireless network interface fro
 | **Local Workstation** | Host Up | Scanning Host (`localhost`) |
 
 *The Zenmap visual network topology was successfully generated and exported.*
-
----
-└── PM-FINAL/
-    └── Week2-Cybersecurity-Report.md
-
